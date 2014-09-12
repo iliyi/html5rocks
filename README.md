@@ -1,5 +1,7 @@
-HTML5ROCKS镜像
+HTML5ROCKS闀滃儚
 ==============
-html5rocks被墙了，网上download了一份，放到这里自己备用
+html5rocks琚浜嗭紝缃戜笂download浜嗕竴浠斤紝鏀惧埌杩欓噷鑷繁澶囩敤
+
+[鐪嬭繖閲宂(https://github.com/iliyi/html5rocks.git)
 
 fuck GFW!
